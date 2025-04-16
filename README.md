@@ -38,8 +38,6 @@ Tools:
 
 ---
 
-### <img src="https://media.giphy.com/media/QCQn6e5frpmm7bdTHI/giphy.gif" width="90"> A little more about me...  
-
 <div align="center">
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LeeLee-00&theme=radical" />

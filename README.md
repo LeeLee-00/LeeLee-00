@@ -18,11 +18,12 @@ Welcome to my GitHub! I'm passionate about building scalable systems, exploring 
 
 ---
 
+
 ### 📊 GitHub Activity
 
 ![Lee's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeLee-00&show_icons=true&theme=tokyonight)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=LeeLee-00&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=LeeLee-00&theme=tokyonight&hide_border=false)](https://git.io/streak-stats)
 
 ---
 

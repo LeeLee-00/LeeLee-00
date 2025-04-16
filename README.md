@@ -1,7 +1,7 @@
 <h1 align="center"> Hey there, I'm Lee Noel <img src="https://github.com/Khaliladib11/Khaliladib11/blob/main/wave.gif" width="30"> </h1>
 
-<p align="center">
-  <img src="[https://github.com/Khaliladib11/Khaliladib11/blob/main/giphy.gif](https://media1.giphy.com/media/OLPQ6z2hlHmwFc4Hso/giphy.webp?cid=ecf05e47x4911d4rtg6y85f6v7puhcgfi22vo112w46z46ra&ep=v1_gifs_search&rid=giphy.webp&ct=g)" width="500"/>
+<p align = "center">
+<img src='https://github.com/LeeLee-00/LeeLee-00/blob/main/Coding.gif' border='10'/>
 </p>
 
 <div align="center">

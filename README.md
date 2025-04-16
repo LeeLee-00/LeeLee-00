@@ -1,7 +1,7 @@
 <h1 align="center"> Hey there, I'm Lee Noel <img src="https://github.com/Khaliladib11/Khaliladib11/blob/main/wave.gif" width="30"> </h1>
 
 <p align = "center">
-<img src='https://github.com/LeeLee-00/LeeLee-00/blob/main/Coding.gif' border='10'/>
+<img src='https://github.com/LeeLee-00/LeeLee-00/blob/main/coding_night.gif' border='10'/>
 </p>
 
 <div align="center">

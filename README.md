@@ -1,55 +1,63 @@
-# 👋🏽 Hey, I'm Lee Noel
+### 🎯 **Customized Profile README for `LeeLee-00`**
 
-💻 Software Engineer | 📊 Data Scientist
+```md
+<h1 align="center"> Hey there, I'm Lee Noel <img src="https://github.com/Khaliladib11/Khaliladib11/blob/main/wave.gif" width="30"> </h1>
 
-Welcome to my GitHub! I'm passionate about building scalable systems, exploring the power of AI, and solving real-world problems through clean, impactful code.
+<p align="center">
+  <img src="https://github.com/Khaliladib11/Khaliladib11/blob/main/giphy.gif" width="500"/>
+</p>
 
----
+<div align="center">
 
-### ⚙️ Tech Stack
+<a href="mailto:leejnoel@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+<a href="https://www.linkedin.com/in/leejnoel/" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
 
-#### 🧠 Languages & Backend
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![VB.NET](https://img.shields.io/badge/VB.NET-512BD4?style=flat&logo=.net&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
-
-#### 🌐 Frameworks & Libraries
-
-![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
-![AngularJS](https://img.shields.io/badge/AngularJS-E23237?style=flat&logo=angularjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apache-airflow&logoColor=white)
-
-#### 🛢️ Databases & Search
-
-![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white)
-
-#### 🐳 DevOps
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+</div>
 
 ---
 
-### 📊 GitHub Activity
+<div align="center">
+  <h4>💻 Software Engineer | 📊 Data Scientist</h4>
+  <h4><img src="https://media.giphy.com/media/giEkKR58desN2ehLLR/giphy.gif" width="90"> Skillset</h4>
 
-![Lee's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeLee-00&show_icons=true&theme=tokyonight)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=LeeLee-00&theme=tokyonight&hide_border=false)](https://git.io/streak-stats)
+```
+Languages:
+  • Python, JavaScript, C#, VB.NET, R
+Frameworks:
+  • ASP.NET, FastAPI, Flask, Streamlit, AngularJS, jQuery
+Databases:
+  • PostgreSQL, Microsoft SQL Server, Elasticsearch
+Tools:
+  • Docker, Apache Airflow, Visual Studio
+```
+</div>
 
 ---
 
-### 🌐 Connect With Me
+### <img src="https://media.giphy.com/media/QCQn6e5frpmm7bdTHI/giphy.gif" width="90"> A little more about me...  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leejnoel)
+<div align="center">
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LeeLee-00&theme=radical)  
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LeeLee-00&theme=radical)  
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LeeLee-00&theme=radical)  
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=LeeLee-00&theme=radical)  
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LeeLee-00&theme=radical&utcOffset=-4)  
+
+</div>
 
 ---
 
-> *"Code fast. Think faster. Architect everything."*
+<em><b>I love connecting with like-minded builders and tech enthusiasts.</b>  
+If you want to say hi, I’d be happy to connect!  
+<a href="https://www.linkedin.com/in/leejnoel/" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+</em>
+```
+
+---

@@ -26,7 +26,7 @@ Languages:
   • Python, JavaScript, C#, VB.NET, R
 
 Frameworks:
-  • ASP.NET, FastAPI, Flask, Streamlit, AngularJS, jQuery
+  • ASP.NET, FastAPI, Flask, Streamlit, AngularJS, jQuery, SQLAlchemy
 
 Databases:
   • PostgreSQL, Microsoft SQL Server, Elasticsearch

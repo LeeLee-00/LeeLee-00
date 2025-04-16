@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋🏽 Hey, I'm Lee Noel
 
-<!--
-**LeeLee-00/LeeLee-00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Software Engineer | 📊 Data Scientist
 
-Here are some ideas to get you started:
+Welcome to my GitHub! I'm passionate about building scalable systems, exploring the power of AI, and solving real-world problems through clean, impactful code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### ⚙️ Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apache-airflow&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+
+---
+
+### 📊 GitHub Activity
+
+![Lee's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeLee-00&show_icons=true&theme=tokyonight)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=LeeLee-00&theme=tokyonight)](https://git.io/streak-stats)
+
+---
+
+### 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leejnoel)
+
+---
+
+> *"Code fast. Think faster. Architect everything."*

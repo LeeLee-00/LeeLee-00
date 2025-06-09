@@ -33,6 +33,9 @@ Databases:
 
 Tools:
   • Docker, Apache Airflow, Visual Studio
+
+ML-Libraries:
+  • Transformers, Scikit-learn, PyTorch
 </pre>
 </div>
 

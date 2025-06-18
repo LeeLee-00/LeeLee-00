@@ -29,7 +29,7 @@ Frameworks:
   • ASP.NET, FastAPI, Flask, Streamlit, AngularJS, jQuery, SQLAlchemy
 
 Databases:
-  • PostgreSQL, Microsoft SQL Server, Elasticsearch
+  • PostgreSQL, pgvector, Microsoft SQL Server, Elasticsearch
 
 Tools:
   • Docker, Apache Airflow, Visual Studio

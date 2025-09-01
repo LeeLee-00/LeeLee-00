@@ -35,7 +35,7 @@ Tools:
   • Docker, Apache Airflow, Visual Studio
 
 ML-Libraries:
-  • Transformers, Scikit-learn, PyTorch
+  • Transformers, Scikit-learn, PyTorch, TensorFlow
 </pre>
 </div>
 

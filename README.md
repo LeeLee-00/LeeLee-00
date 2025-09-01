@@ -47,23 +47,30 @@ ML-Libraries:
 <!-- Streak Stats -->
 <img src="https://streak-stats.demolab.com?user=LeeLee-00&theme=tokyonight" />
 
+<!-- GitHub Profile Summary Cards -->
 <table>
   <tr>
     <td>
+      <!-- Languages used in public repositories -->
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LeeLee-00&theme=tokyonight" />
     </td>
     <td>
+      <!-- Most committed language -->
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LeeLee-00&theme=tokyonight" />
     </td>
     <td>
+      <!-- General GitHub stats -->
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=LeeLee-00&theme=tokyonight" />
     </td>
   </tr>
 </table>
 
+<!-- Productive time (UTC-4) -->
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LeeLee-00&theme=radical&utcOffset=-4" />
 
+<!-- Profile details card -->
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LeeLee-00&theme=tokyonight" />
+
 <!-- Activity Graph (theme: tokyo-night) -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=LeeLee-00&theme=tokyo-night" />
 </div>

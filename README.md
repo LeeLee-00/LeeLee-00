@@ -43,12 +43,29 @@ ML-Libraries:
 
 <div align="center">
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LeeLee-00&theme=tokyonight" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LeeLee-00&theme=tokyonight" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LeeLee-00&theme=tokyonight" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=LeeLee-00&theme=tokyonight" />
+
+<!-- Streak Stats -->
+<img src="https://streak-stats.demolab.com?user=LeeLee-00&theme=tokyonight" />
+
+<table>
+  <tr>
+    <td>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LeeLee-00&theme=tokyonight" />
+    </td>
+    <td>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LeeLee-00&theme=tokyonight" />
+    </td>
+    <td>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=LeeLee-00&theme=tokyonight" />
+    </td>
+  </tr>
+</table>
+
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LeeLee-00&theme=radical&utcOffset=-4" />
 
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LeeLee-00&theme=tokyonight" />
+<!-- Activity Graph (theme: tokyo-night) -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=LeeLee-00&theme=tokyo-night" />
 </div>
 
 ---

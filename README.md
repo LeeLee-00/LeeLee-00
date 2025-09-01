@@ -65,11 +65,21 @@ ML-Libraries:
   </tr>
 </table>
 
+<table>
+  <tr>
+    <td>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LeeLee-00&theme=radical&utcOffset=-4" />
+    <td>
+    <td>
+    <!-- Profile details card -->
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LeeLee-00&theme=tokyonight" />
+    <td>
+  </tr>
+</table>
 <!-- Productive time (UTC-4) -->
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LeeLee-00&theme=radical&utcOffset=-4" />
 
-<!-- Profile details card -->
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LeeLee-00&theme=tokyonight" />
+
+
 
 <!-- Activity Graph (theme: tokyo-night) -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=LeeLee-00&theme=tokyo-night" />

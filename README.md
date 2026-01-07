@@ -44,8 +44,6 @@ ML-Libraries:
 <div align="center">
 
 
-<!-- Streak Stats -->
-
 <!-- GitHub Profile Summary Cards -->
 <table>
   <tr>
